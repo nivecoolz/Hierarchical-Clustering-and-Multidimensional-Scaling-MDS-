@@ -53,11 +53,6 @@ This project focuses on applying **Hierarchical Clustering** and **Multidimensio
 - **Dendrogram:** Displays hierarchical clustering of Telecom companies.
 - **MDS Plot:** Visual representation of companies in a 2D space based on cosine distances.
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 **Author:** Nivetha Thangaraj  
